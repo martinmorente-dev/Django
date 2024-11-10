@@ -1,3 +1,3 @@
 # Django
 
-All my projects I did with Django
+All my projects with Django
